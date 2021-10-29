@@ -1,11 +1,11 @@
 <div>
   <a href="https://github.com/carvalhoBrenda">
     <img
-      height="160em"
+      height="140em"
       src="https://github-readme-stats.vercel.app/api?username=carvalhoBrenda&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"
     />
     <img
-      height="160em"
+      height="140em"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=carvalhoBrenda&langs_count=5&theme=dracula&layout=compact"
     />
   </a>
